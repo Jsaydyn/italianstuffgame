@@ -1,10 +1,10 @@
 # Italian Regions Game
 
 The game board can be found at:
-https://jsaydyn.github.io/italianstuffgame/boardgamemain.html
+<a href = 'https://jsaydyn.github.io/italianstuffgame/boardgamemain.html'></a>
 
 The individual player cards can be found at:
-https://jsaydyn.github.io/italianstuffgame/boardgames.html
+<a href = 'https://jsaydyn.github.io/italianstuffgame/boardgames.html'> </a>
 
 Instructions:
 1. All players pick a colour at the beginning of the game: red, green yellow or blue.

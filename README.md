@@ -1,10 +1,13 @@
-# Italian Regions Game
+# Italian Regions Bingo
 
-The game board can be found at:
-<a href = 'https://jsaydyn.github.io/italianstuffgame/boardgamemain.html'>Board</a>
 
-The individual player cards can be found at:
-<a href = 'https://jsaydyn.github.io/italianstuffgame/boardgames.html'>Card </a>
+<a href = 'https://jsaydyn.github.io/italianstuffgame/boardgamemain.html'>Click this link to access the game board.</a>
+
+
+<a href = 'https://jsaydyn.github.io/italianstuffgame/boardgames.html'>Click this link to access the individual player cards.</a>
+
+
+This game is very similar to bingo. A random letter is generated, to which players fill on their cards if it matches.
 
 Instructions:
 1. All players pick a colour at the beginning of the game: red, green yellow or blue.
